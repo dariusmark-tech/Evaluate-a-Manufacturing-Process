@@ -88,7 +88,7 @@ ORDER BY item_no;
 
 ---
 
-## 📤 Output
+## Output
 
 The final query (saved as `alerts` DataFrame) returns exactly these columns:
 
