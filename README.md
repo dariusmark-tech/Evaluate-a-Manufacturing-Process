@@ -1,16 +1,16 @@
-# 🏭 Manufacturing SPC Alert System
+# Manufacturing SPC Alert System
 
 > **Statistical Process Control (SPC) using SQL window functions to monitor manufacturing quality in real time.**
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes historical manufacturing data to determine whether a production process is operating within acceptable control limits. Using **Statistical Process Control (SPC)** methodology, it flags any parts whose height measurements fall outside a dynamically computed acceptable range — enabling timely process adjustments and consistent product quality.
 
 ---
 
-## 🧠 The Problem
+## The Problem
 
 Manufacturing processes need constant monitoring. Rather than reacting to every small variation, SPC provides a data-driven framework:
 
@@ -20,7 +20,7 @@ Manufacturing processes need constant monitoring. Rather than reacting to every 
 
 ---
 
-## 📐 Control Limit Formulas
+## Control Limit Formulas
 
 The acceptable range is defined by an **Upper Control Limit (UCL)** and a **Lower Control Limit (LCL)**:
 
@@ -35,7 +35,7 @@ Where:
 
 ---
 
-## 🗄️ Dataset
+## Dataset
 
 **Table:** `manufacturing_parts`
 
