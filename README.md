@@ -127,7 +127,7 @@ The final query (saved as `alerts` DataFrame) returns exactly these columns:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── README.md               # This file
