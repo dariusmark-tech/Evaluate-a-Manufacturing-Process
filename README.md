@@ -49,7 +49,7 @@ Where:
 
 ---
 
-## 🔍 SQL Solution
+## SQL Solution
 
 ```sql
 SELECT
