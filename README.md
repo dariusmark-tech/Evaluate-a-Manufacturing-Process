@@ -118,7 +118,7 @@ The final query (saved as `alerts` DataFrame) returns exactly these columns:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Load your data into a SQL environment (PostgreSQL, DataCamp Workspace, etc.)
 2. Ensure the `manufacturing_parts` table exists and is populated
