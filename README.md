@@ -138,6 +138,6 @@ The final query (saved as `alerts` DataFrame) returns exactly these columns:
 
 ---
 
-## 🏷️ Tags
+## Tags
 
 `SQL` `Window Functions` `Statistical Process Control` `SPC` `Manufacturing` `Data Engineering` `DataCamp` `Quality Control`
