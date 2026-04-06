@@ -105,7 +105,7 @@ The final query (saved as `alerts` DataFrame) returns exactly these columns:
 
 ---
 
-## ⚙️ Key SQL Concepts Used
+## Key SQL Concepts Used
 
 | Concept | Purpose |
 |---------|---------|
