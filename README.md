@@ -116,14 +116,6 @@ The final query (saved as `alerts` DataFrame) returns exactly these columns:
 | Subquery + `WHERE window_size = 5` | Filter out rows with < 5 observations |
 | `NOT BETWEEN` | Boolean alert flag |
 
-## Project Structure
-
-```
-├── README.md               # This file
-├── notebook.ipynb          # DataCamp workspace notebook
-├── parts.csv               # Raw manufacturing data
-└── manufacturing.jpg       # Project cover image
-```
 
 ---
 
