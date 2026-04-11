@@ -116,17 +116,6 @@ The final query (saved as `alerts` DataFrame) returns exactly these columns:
 | Subquery + `WHERE window_size = 5` | Filter out rows with < 5 observations |
 | `NOT BETWEEN` | Boolean alert flag |
 
----
-
-## How to Run
-
-1. Load your data into a SQL environment (PostgreSQL, DataCamp Workspace, etc.)
-2. Ensure the `manufacturing_parts` table exists and is populated
-3. Run the query above
-4. The result is saved as the `alerts` DataFrame
-
----
-
 ## Project Structure
 
 ```
